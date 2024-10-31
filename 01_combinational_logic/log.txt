@@ -1,0 +1,23 @@
+ALL PROBLEMS 
+PASS 01_01_mux_question/testbench.sv
+01_01_mux_question/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_02_mux_if/testbench.sv
+01_02_mux_if/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_03_mux_case/testbench.sv
+01_03_mux_case/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_04_mux_index/testbench.sv
+01_04_mux_index/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_05_mux_gates/testbench.sv
+01_05_mux_gates/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_06_mux_2n_using_muxes_n/testbench.sv
+01_06_mux_2n_using_muxes_n/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_07_mux_using_narrow_data_muxes/testbench.sv
+01_07_mux_using_narrow_data_muxes/testbench.sv:51: $finish called at 8 (1s)
+PASS 01_08_not_gate_using_mux/testbench.sv
+01_08_not_gate_using_mux/testbench.sv:29: $finish called at 2 (1s)
+PASS 01_09_and_gate_using_mux/testbench.sv
+01_09_and_gate_using_mux/testbench.sv:31: $finish called at 4 (1s)
+PASS 01_10_or_gate_using_mux/testbench.sv
+01_10_or_gate_using_mux/testbench.sv:31: $finish called at 4 (1s)
+PASS 01_11_xor_gate_using_mux/testbench.sv
+01_11_xor_gate_using_mux/testbench.sv:31: $finish called at 4 (1s)
