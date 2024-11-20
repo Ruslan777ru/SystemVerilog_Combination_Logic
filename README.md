@@ -1,4 +1,4 @@
-# SystemVerilog_Combination_Logic
+# SystemVerilog Labs from YADRO courses
 
 
 Hello guys :)
